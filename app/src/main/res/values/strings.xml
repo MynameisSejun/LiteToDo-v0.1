@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiteToDo</string>
+    <string name="blank_fragment">blank fragment</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="task">Task</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="todo">todo</string>
+</resources>
