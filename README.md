@@ -25,3 +25,6 @@
 2. 'FragmentTodoList' 클래스 생성 후 실행 확인
 3. 'TodoAdapter' 클래스 생성 후 실행 확인
 4. 'FragmentTodoList' 클래스 완성 후에 실행 확인
+
+20203110 박세준
+github 주소 : https://github.com/MynameisSejun/LiteToDo-v0.1
